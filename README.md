@@ -10,3 +10,6 @@
 ![admin](https://github.com/emanMohamad691/angular_small_ecommerce_site/assets/79469282/b757794f-98fa-466b-b2d8-0f9a4e643f8b).
 ![details](https://github.com/emanMohamad691/angular_small_ecommerce_site/assets/79469282/0a18abec-e873-401d-924c-ea5cbaf72af0).
 ![add user](https://github.com/emanMohamad691/angular_small_ecommerce_site/assets/79469282/6fd0feee-7348-419e-9bc3-47466bd8d136).
+
+## Video
+https://drive.google.com/file/d/1fHrTtV7BqzpDMZMG6YjImsaPp9oaSgZM/view?usp=sharing
